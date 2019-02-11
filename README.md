@@ -3,26 +3,3 @@
 🙌 Learning and sharing about accessibility for everyone
 
 [Kickoff article (seanmcp.com)](https://www.seanmcp.com/articles/accessibility-wednesday/)
-
-**Boilerplate**
-
-```md
----
-title: 
-author:
-  name: Sean McPherson
-  link: https://twitter.com/_seanmcp
-level: 
-tags: []
----
-
-Short message
-
-```html
-code block
-```
-
-Alt: for code block
-
-Source: https://www.w3.org
-```
