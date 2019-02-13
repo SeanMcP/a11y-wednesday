@@ -11,7 +11,12 @@ Add help text to form elements using `aria-describedby`. Make sure to add `tabin
 
 ```html
 <label for="pw-input">Select a new password:</label>
-<input id="pw-input" name="pw" type="password" aria-describedby="pw-help" />
+<input
+  id="pw-input"
+  name="pw"
+  type="password"
+  aria-describedby="pw-help"
+ />
 <p id="pw-help" tabindex="-1">At least 8 characters with one number</p>
 ```
 
