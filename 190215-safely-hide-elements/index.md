@@ -7,7 +7,7 @@ level: intermediate
 tags: ['hide', 'element', 'safely']
 ---
 
-If you need to hide an HTML element from view while keeping it accessible to screen readers, position it far off screen with a helper class. Make sure you're still managing and displaying a focus state!
+To hide an HTML element from view while keeping it accessible to screen readers, position it far off screen with a helper class. Make sure you're still managing and displaying a focus state!
 
 ```css
 /* Use with caution */
