@@ -15,7 +15,7 @@ Can you make it to Melbourne in a window seat?
 1. Go to: http://udacity.github.io/ud891/lesson3-semantics-built-in/02-chromevox-lite/
 2. Choose a one-way flight from a nearby airport to Melbourne, Australia
 3. Select a window seat
-4. Uncheck "receive promotional offers"
+4. Unselect "receive promotional offers"
 5. Search
 ```
 
