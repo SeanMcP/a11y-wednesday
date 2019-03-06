@@ -7,7 +7,7 @@ level: Beginner
 tags: [buttons, label]
 ---
 
-A button's action should be indicated by content of the element. For image or icon buttons, use an alt tag on the child or aria-label on the button.
+Make sure to label your buttons too! A button's action should be indicated by content of the element. For image or icon buttons, use an alt tag on the child or aria-label on the button.
 
 ```html
 <button>Send message</button>
