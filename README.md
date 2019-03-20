@@ -4,4 +4,4 @@
 
 [Kickoff article (seanmcp.com)](https://www.seanmcp.com/articles/accessibility-wednesday/)
 
-[Follow #a11ywednesday on Twitter](https://twitter.com/hashtag/a11ywednesday)
+[Follow #A11yWednesday on Twitter](https://twitter.com/hashtag/A11yWednesday)
